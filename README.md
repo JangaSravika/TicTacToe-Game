@@ -1,4 +1,4 @@
-# 🎮 Tic Tac Toe - Java Console Application (Eclipse IDE)
+# 🎮 Tic Tac Toe 
 
 A simple **console-based Tic Tac Toe** game built using **Java**. This project is run in the terminal and the project is developed in **Eclipse IDE** and allows **two human players** to play the game turn by turn.
 
